@@ -10,7 +10,11 @@ https://pd.fit.mospolytech.ru/docs/report/
 
 ## Индивидуальные планы работы
 
-- [Иванов И.И.](ivanov.md)
+- [Кирса М.Е. ](Кирса.md)
+- [Петров П.П.](petrov.md)
+- [Петров П.П.](petrov.md)
+- [Петров П.П.](petrov.md)
+- [Петров П.П.](petrov.md)
 - [Петров П.П.](petrov.md)
 
 ## Отчёт
