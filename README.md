@@ -20,6 +20,7 @@ https://github.com/MoNTwO1/Project-activities
 http://limeqa.std-816.ist.mospolytech.ru/
 
 Ссылка на новость в соц.сетях:
+https://vk.com/montwo1?w=wall110594517_5060%2Fall
 
 
 
