@@ -22,7 +22,11 @@ http://limeqa.std-816.ist.mospolytech.ru/
 Ссылка на новость в соц.сетях:
 https://vk.com/montwo1?w=wall110594517_5060%2Fall
 
+Ссылка на промо ролик:
+https://youtu.be/2fgMkY86MyE
 
+Ссылка на видеопрезентацию:
+https://youtu.be/18XHC2b6JFE
 
 
 ## Участники
